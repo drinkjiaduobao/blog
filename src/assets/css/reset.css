@@ -1,0 +1,24 @@
+/*
+    ***********vue初始化css
+*/
+*{
+    margin: 0px;padding: 0px;
+}
+ul{/*列表默认无样式*/
+    list-style: none;
+}
+a{/*a标签默认无下划线*/
+    text-decoration: none;
+}
+img{/*图片默认中心对其*/
+    vertical-align: middle;
+}
+body{
+    font-family:'微软雅黑', 'Arial Narrow', Arial, sans-serif;
+    font-size:14px;
+    background-color: #f2f2f2;
+}
+.zhanwei{
+    margin-top: 60px;
+}
+
